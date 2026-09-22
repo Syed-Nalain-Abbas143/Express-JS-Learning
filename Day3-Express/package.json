@@ -1,0 +1,21 @@
+{
+  "name": "day3-express",
+  "version": "1.0.0",
+  "description": "Pracitce Express routing parameters and query strings",
+  "keywords": [
+    "Express-JS",
+    "Backend",
+    "Day3"
+  ],
+  "license": "ISC",
+  "author": "Syed Nalain Shah Shab",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.2",
+    "express": "^5.2.1"
+  }
+}
