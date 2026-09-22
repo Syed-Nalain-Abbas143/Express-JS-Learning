@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Creating a backend API and connecting with frontend",
+  "keywords": [
+    "Backend",
+    "API",
+    "Proxy",
+    "Chai",
+    "Code"
+  ],
+  "license": "ISC",
+  "author": "Nalain Abbas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}
